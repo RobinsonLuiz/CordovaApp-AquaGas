@@ -1,0 +1,1 @@
+# Aplicação feita em Cordova para Matéria Dispositivos Móveis.

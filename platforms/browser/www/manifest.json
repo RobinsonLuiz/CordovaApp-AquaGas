@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Aqua Gás",
+  "short_name": "Aqua Gás",
+  "version": "io.cordova.hellocordova",
+  "description": "Aqua Gás v0.1",
+  "author": "Robinson Luiz",
+  "icons": [],
+  "start_url": "relatorio.html"
+}

@@ -1,0 +1,11 @@
+.correto {
+    border-color: greenyellow;
+}
+
+.errado {
+    border-color: red;
+}
+
+.color-btn {
+    border: 1px solid aqua;
+}
